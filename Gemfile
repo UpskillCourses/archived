@@ -32,6 +32,9 @@ gem 'jbuilder', '2.5.0'
 # Use Bootstrap-sass for adding Twitter Bootstrap library
 gem 'bootstrap-sass', '3.3.7'
 
+# Use Font Awesome sass gem for adding Font Awesome icons
+gem 'font-awesome-sass', '4.6.2'
+
 group :production do
   gem 'pg', '0.18.4'
 end  
